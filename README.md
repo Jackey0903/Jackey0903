@@ -1,26 +1,45 @@
+<div align="center">
+
 # Haojie Hu
 
-Software Engineering undergraduate student at [Tongji University](https://www.tongji.edu.cn/), interested in building reliable multimodal and reasoning systems.
+**Software Engineering Undergraduate, Tongji University**
 
-**Research interests:** Multimodal Learning, Computer Vision, Audio-Visual Understanding, LLM Reasoning, Model Interpretability, AI for Science
+Multimodal Learning | Computer Vision | Audio-Visual Understanding | LLM Reasoning | Model Interpretability | AI for Science
 
-**Contact:** [Email](mailto:TODO_EMAIL@example.com) · [Homepage](https://Jackey0903.github.io) · [GitHub](https://github.com/Jackey0903)
+[Email](mailto:TODO_EMAIL@example.com) | [Homepage](https://Jackey0903.github.io) | [GitHub](https://github.com/Jackey0903)
 
-## Selected Projects
+</div>
 
-- **Listening to the Motion** — Audio-Visual Segmentation research on segmenting sounding objects with audio, visual, and motion cues, with a focus on reducing static visual bias.
-- **To Think or Not to Think** — Analysis of LLM reasoning behavior under different reasoning budgets, involving sparse autoencoders, interpretability, and budget-aware routing.
-- **Paper2Poster** — A pipeline for automatically generating academic posters from papers through a generation-checking-revision-rendering loop.
-- **Stardew-Valley** — A Cocos2d-x course project implementing map interaction, character control, collision detection, inventory management, and farming systems.
+---
 
-## Technical Skills
+## About
 
-- **Languages:** C++, Python, JavaScript, LaTeX
-- **Frameworks & Libraries:** PyTorch, OpenCV, Cocos2d-x
-- **Tools:** Git, Linux, Docker, VS Code
+I am an undergraduate student in Software Engineering at Tongji University. My current work focuses on multimodal perception and reasoning, especially how models integrate visual, audio, motion, and textual evidence under different task constraints.
 
-## GitHub Stats
+## Research Focus
 
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Jackey0903&show_icons=true&hide_border=true&theme=default&hide_title=true" alt="Haojie Hu's GitHub stats" />
-</p>
+- Multimodal learning for audio-visual perception and grounding.
+- Computer vision systems that reduce static visual bias through motion and temporal cues.
+- LLM reasoning behavior, budget-aware inference, and mechanistic interpretability.
+- Practical AI pipelines for scientific reading, poster generation, and research communication.
+
+## Selected Work
+
+| Project | Area | Description |
+| --- | --- | --- |
+| **Listening to the Motion** | Audio-Visual Segmentation | Segmenting sounding objects with audio, visual, and motion cues, with emphasis on reducing static visual bias. |
+| [**To Think or Not to Think**](https://github.com/Jackey0903/To-Think-or-Not-to-Think) | LLM Interpretability | Studying LLM reasoning behavior under different reasoning budgets using sparse autoencoders, interpretability analysis, and budget-aware routing. |
+| [**Paper2Poster**](https://github.com/Jackey0903/paper2poster) | AI for Research | Building a paper-to-poster pipeline with a generation, checking, revision, and rendering loop. |
+| [**Stardew-Valley**](https://github.com/Jackey0903/Stardew-Valley) | Game Systems | A Cocos2d-x course project with map interaction, character control, collision detection, inventory, and farming systems. |
+
+## Technical Stack
+
+| Category | Tools |
+| --- | --- |
+| Languages | C++, Python, JavaScript, LaTeX |
+| ML / Vision | PyTorch, OpenCV |
+| Systems / Engineering | Cocos2d-x, Git, Linux, Docker, VS Code |
+
+## GitHub Snapshot
+
+<img src="assets/github-snapshot.svg" alt="GitHub snapshot for Jackey0903: 17 public repositories, 10 followers, 3 stars" width="100%" />
