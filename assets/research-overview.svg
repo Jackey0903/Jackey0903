@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">Research overview for Haojie Hu</title>
+  <desc id="desc">A compact academic profile banner covering multimodal perception, reasoning and interpretability, and AI for research workflows.</desc>
+  <rect x="0" y="0" width="900" height="260" rx="12" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="899" height="259" rx="11.5" fill="none" stroke="#d0d7de"/>
+
+  <line x1="44" y1="72" x2="856" y2="72" stroke="#d0d7de"/>
+  <circle cx="60" cy="72" r="5" fill="#1f4e79"/>
+  <circle cx="450" cy="72" r="5" fill="#238636"/>
+  <circle cx="840" cy="72" r="5" fill="#9a6700"/>
+
+  <text x="44" y="42" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#24292f">Research Overview</text>
+  <text x="44" y="94" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#57606a">Current themes across perception, reasoning, and research tooling</text>
+
+  <g transform="translate(44 122)">
+    <rect x="0" y="0" width="252" height="102" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="18" y="30" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1f4e79">Multimodal Perception</text>
+    <text x="18" y="56" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Audio-visual grounding</text>
+    <text x="18" y="77" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Motion-aware segmentation</text>
+  </g>
+
+  <g transform="translate(324 122)">
+    <rect x="0" y="0" width="252" height="102" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="18" y="30" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#238636">Reasoning &amp; Interpretability</text>
+    <text x="18" y="56" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Budget-aware inference</text>
+    <text x="18" y="77" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">SAE-based behavior analysis</text>
+  </g>
+
+  <g transform="translate(604 122)">
+    <rect x="0" y="0" width="252" height="102" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="18" y="30" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#9a6700">AI For Research</text>
+    <text x="18" y="56" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Paper-to-poster pipelines</text>
+    <text x="18" y="77" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Generation-checking loops</text>
+  </g>
+</svg>

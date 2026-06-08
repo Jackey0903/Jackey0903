@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
   <title id="title">GitHub snapshot for Haojie Hu</title>
-  <desc id="desc">Public GitHub metadata for Jackey0903: 17 repositories, 10 followers, 3 stars, with Python as the most frequent repository language.</desc>
-  <rect x="0" y="0" width="900" height="240" rx="12" fill="#ffffff"/>
-  <rect x="0.5" y="0.5" width="899" height="239" rx="11.5" fill="none" stroke="#d0d7de"/>
+  <desc id="desc">Public GitHub metadata for Jackey0903: 18 repositories, 10 followers, 4 stars, with Python as the most frequent primary language across non-fork repositories.</desc>
+  <rect x="0" y="0" width="900" height="250" rx="12" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="899" height="249" rx="11.5" fill="none" stroke="#d0d7de"/>
 
   <text x="32" y="42" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#24292f">GitHub Snapshot</text>
   <text x="32" y="68" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Public profile metadata for Jackey0903 - updated Jun 8, 2026</text>
@@ -10,7 +10,7 @@
   <g transform="translate(32 96)">
     <rect x="0" y="0" width="190" height="70" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
     <text x="18" y="28" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Public repositories</text>
-    <text x="18" y="55" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#0969da">17</text>
+    <text x="18" y="55" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#1f4e79">18</text>
   </g>
 
   <g transform="translate(242 96)">
@@ -22,20 +22,20 @@
   <g transform="translate(452 96)">
     <rect x="0" y="0" width="190" height="70" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
     <text x="18" y="28" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Repository stars</text>
-    <text x="18" y="55" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#9a6700">3</text>
+    <text x="18" y="55" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#9a6700">4</text>
   </g>
 
   <g transform="translate(662 96)">
     <rect x="0" y="0" width="206" height="70" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
-    <text x="18" y="28" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Most used language</text>
+    <text x="18" y="28" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Primary language</text>
     <text x="18" y="55" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#3572a5">Python</text>
   </g>
 
-  <text x="32" y="198" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#24292f">Repository languages</text>
-  <rect x="32" y="210" width="312" height="10" rx="5" fill="#3572a5"/>
-  <rect x="344" y="210" width="104" height="10" fill="#3178c6"/>
-  <rect x="448" y="210" width="104" height="10" fill="#41b883"/>
-  <rect x="552" y="210" width="52" height="10" fill="#6e4c13"/>
-  <rect x="604" y="210" width="208" height="10" rx="5" fill="#94a3b8"/>
-  <text x="32" y="232" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">Python 40% | TypeScript 13% | Vue 13% | C++ 7% | Other 27%</text>
+  <text x="32" y="198" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#24292f">Primary languages across non-fork repositories</text>
+  <rect x="32" y="212" width="367" height="10" rx="5" fill="#3572a5"/>
+  <rect x="399" y="212" width="101" height="10" fill="#41b883"/>
+  <rect x="500" y="212" width="55" height="10" fill="#3178c6"/>
+  <rect x="555" y="212" width="55" height="10" fill="#1f4e79"/>
+  <rect x="610" y="212" width="202" height="10" rx="5" fill="#94a3b8"/>
+  <text x="32" y="236" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">Python 47% | Vue 13% | TypeScript 7% | C++ 7% | Other 26%</text>
 </svg>
