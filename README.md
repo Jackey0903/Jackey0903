@@ -2,7 +2,7 @@
 
 # Hi, I'm Haojie Hu.
 
-**AI Explorer &middot; Graduate Student at Tongji University**
+**AI Explorer &middot; Software Engineering Undergraduate at Tongji University**
 
 I study how AI systems listen, look, reason, and revise - and I build tools that make those decisions easier to inspect.
 
