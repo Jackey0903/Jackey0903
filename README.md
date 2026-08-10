@@ -1,53 +1,41 @@
-# Haojie Hu
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineering Undergraduate, Tongji University</strong><br>
-  Multimodal Perception &middot; Audio-Visual Understanding &middot; LLM Reasoning &middot; Model Interpretability &middot; AI for Research
-</p>
+# Hi, I'm Haojie Hu.
 
-<p align="center">
-  <a href="https://github.com/Jackey0903">GitHub</a> &middot;
-  <a href="https://www.tongji.edu.cn/">Tongji University</a> &middot;
-  <a href="https://github.com/Jackey0903/Jackey0903">Profile Repository</a>
-</p>
+**AI Explorer &middot; Graduate Student at Tongji University**
+
+I study how AI systems listen, look, reason, and revise - and I build tools that make those decisions easier to inspect.
+
+[Personal Website](https://jackey0903.github.io/) &middot; [Email](mailto:3038115521@qq.com) &middot; [Tongji University](https://www.tongji.edu.cn/)
+
+</div>
 
 ---
 
-## About
+## What I am exploring
 
-I am an undergraduate student in Software Engineering at Tongji University. My work focuses on multimodal perception and model reasoning, especially how systems combine visual, audio, motion, and textual evidence under practical task constraints.
+- **Multimodal perception:** grounding objects and events across audio, vision, motion, and language.
+- **Reasoning behavior:** understanding when longer reasoning helps and when it creates drift.
+- **AI for research:** building inspectable workflows for reading, experimentation, and scientific communication.
 
-## Research Interests
-
-**Multimodal learning.** Grounding objects, events, and actions across audio, vision, motion, and language.
-
-**Audio-visual perception.** Using temporal and motion cues to reduce static visual bias in segmentation and understanding tasks.
-
-**LLM reasoning and interpretability.** Studying reasoning-budget behavior, budget-aware routing, and internal features linked to model decisions.
-
-**AI for research workflows.** Building generation, checking, revision, and rendering loops for scientific reading and communication.
-
-## Selected Research And Software
+## Selected work
 
 ### [SKA-VCT: Listening to the Motion](https://github.com/Jackey0903/SKA-VCT)
 
-Audio-visual segmentation research on probing physical consistency for sounding-object localization. The project uses spectral-kinematic alignment and motion-guided queries to reduce false positives from static visual saliency.
+Audio-visual segmentation research that uses spectral-kinematic alignment and motion-guided queries to reduce false positives from visually salient but silent objects.
 
 ### [To Think or Not to Think](https://github.com/Jackey0903/To-Think-or-Not-to-Think)
 
-LLM interpretability work studying reasoning behavior under different reasoning budgets, with sparse autoencoders, feature analysis, and budget-aware routing.
+A reproducible pipeline for studying zero, short, and long reasoning budgets before multimodal grounding and segmentation.
 
 ### [Paper2Poster](https://github.com/Jackey0903/paper2poster)
 
-An AI-for-research pipeline that turns academic papers into posters through a generation, checking, revision, and rendering loop.
+A multi-agent workflow that turns research papers into editable posters through parsing, curation, layout, visual review, and revision.
 
-### [Stardew-Valley](https://github.com/Jackey0903/Stardew-Valley)
+## Now
 
-A Cocos2d-x systems project implementing map interaction, character control, collision detection, inventory, and farming simulation mechanics.
+> Looking for AI research and engineering internships around multimodal learning, LLM reasoning, research agents, and evaluation-heavy systems.
 
-## Engineering Toolkit
+Python &middot; PyTorch &middot; C++ &middot; TypeScript &middot; Computer Vision &middot; Multimodal Learning &middot; Research Tooling
 
-- **Languages:** Python, C++, TypeScript, JavaScript, Java, LaTeX
-- **ML / Vision:** PyTorch, OpenCV, multimodal data processing
-- **Systems:** Linux, Git, Docker, Cocos2d-x, shell scripting
-- **Research workflow:** paper reading, experiment tracking, poster generation, reproducible documentation
+I also enjoy playful systems and game mechanics. [Stardew-Valley](https://github.com/Jackey0903/Stardew-Valley) is where some of that engineering curiosity ended up.
