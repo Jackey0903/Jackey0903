@@ -28,9 +28,17 @@ Audio-visual segmentation research that uses spectral-kinematic alignment and mo
 
 A reproducible pipeline for studying zero, short, and long reasoning budgets before multimodal grounding and segmentation.
 
-### [Paper2Poster](https://github.com/Jackey0903/paper2poster)
+### [PosterMELD](https://github.com/Jackey0903/PosterMELD)
 
-A multi-agent workflow that turns research papers into editable posters through parsing, curation, layout, visual review, and revision.
+A multi-agent paper-to-poster system for controllable design diversity and editable, print-ready PowerPoint outputs. Includes a 621-paper benchmark, 24 templates, and bounded visual-quality repair. [Project page](https://jackey0903.github.io/PosterMELD/) &middot; [Paper](https://arxiv.org/abs/2608.02218)
+
+### [DraftCode: NBA Draft War Room](https://github.com/Jackey0903/draftcode)
+
+An auditable NBA draft prediction agent that fuses talent, expert mocks, and market signals across 30 GM personas and 1,500 Monte Carlo scenarios. Built for the AWS Summit Shanghai 2026 hackathon; placed third and advanced to the Macau round.
+
+### [Stardew-Valley](https://github.com/Jackey0903/Stardew-Valley)
+
+A Cocos2d-x systems project covering map interaction, character control, collision detection, inventory, and farming simulation mechanics.
 
 ## Now
 
@@ -38,4 +46,4 @@ A multi-agent workflow that turns research papers into editable posters through 
 
 Python &middot; PyTorch &middot; C++ &middot; TypeScript &middot; Computer Vision &middot; Multimodal Learning &middot; Research Tooling
 
-I also enjoy playful systems and game mechanics. [Stardew-Valley](https://github.com/Jackey0903/Stardew-Valley) is where some of that engineering curiosity ended up.
+I also enjoy playful systems, game mechanics, and projects that make difficult ideas visible.
