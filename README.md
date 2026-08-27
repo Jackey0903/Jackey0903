@@ -18,7 +18,7 @@ I study how AI systems listen, look, reason, and revise — and I build tools th
 - **Reasoning behavior:** understanding when longer reasoning helps a model and when it only creates drift.
 - **AI for research:** inspectable agent workflows for reading, experimentation, and scientific communication.
 
-## Publications
+## Papers
 
 ### [PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs](https://arxiv.org/abs/2608.02218)
 
@@ -27,20 +27,23 @@ I study how AI systems listen, look, reason, and revise — and I build tools th
 
 Turns scientific papers into editable PowerPoint posters through capacity-aware slots, explicit design controls, and bounded visual-quality repair. Evaluated on 621 papers with an 81.3% print-ready rate at roughly $0.38 per poster.
 
-### Work in progress
+### [Listening to the Motion: Audio-Conditioned Kinematic Verification for Robust Audio-Visual Segmentation](https://github.com/Jackey0903/SKA-VCT)
 
-- **[SKA-VCT: Listening to the Motion](https://github.com/Jackey0903/SKA-VCT)** — spectral-kinematic alignment and motion-guided queries for audio-visual segmentation, aimed at the false positives caused by visually salient but silent objects. *Manuscript in preparation.*
-- **[To Think or Not to Think](https://github.com/Jackey0903/To-Think-or-Not-to-Think)** — a reproducible Think-Ground-Segment pipeline comparing zero, short, and long reasoning budgets before referring audio-visual grounding. *Code released.*
+*Under review* · [Code](https://github.com/Jackey0903/SKA-VCT)
+
+Audio-visual segmentation leans on static visual saliency, so a silent guitar on a poster can outvote the one actually being played. **KEVA** makes audio interrogate the motion field before it is allowed to drive segmentation. On AVSBench it reaches 87.42 / 73.50 / 51.98 mIoU on S4 / MS3 / AVSS, and under deceptive visual saliency its degradation is 3.27 points versus 10.90 for the vision-centric baseline.
+
+### [To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation](https://github.com/Jackey0903/To-Think-or-Not-to-Think)
+
+*Under review* · [Code](https://github.com/Jackey0903/To-Think-or-Not-to-Think)
+
+Longer chain-of-thought is not uniformly better — forcing it on simple queries is an *overthinking trap*. The hidden state a model holds just before its first reasoning token already predicts, at 70.1% accuracy, whether reasoning will help. Routing on that signal retains ~96% of always-long quality while cutting reasoning tokens by 60%, and transfers zero-shot to out-of-distribution splits.
 
 ## Projects
 
 ### [DraftCode: NBA Draft War Room](https://github.com/Jackey0903/draftcode)
 
 An auditable NBA draft prediction agent that fuses talent, expert mocks, and market signals across 30 GM personas and 1,500 Monte Carlo scenarios. Built for the AWS Summit Shanghai 2026 hackathon; placed third and advanced to the Macau round.
-
-### [Auto-Connection](https://github.com/Jackey0903/Auto-Connection)
-
-A local-first application workspace for tracking opportunities, matching advisors, and drafting outreach email — with sending kept behind an explicit review gate.
 
 ### [VoxSprite](https://github.com/Jackey0903/VoxSprite)
 
