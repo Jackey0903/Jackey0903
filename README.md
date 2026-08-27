@@ -4,8 +4,6 @@
 
 **AI Explorer · Software Engineering Undergraduate at Tongji University**
 
-GPA 4.79/5.00 · ranked 6/191 (top 3%)
-
 I study how AI systems listen, look, reason, and revise — and I build tools that make those decisions easier to inspect.
 
 [Website](https://jackey0903.github.io/) · [Email](mailto:3038115521@qq.com) · [Tongji University](https://www.tongji.edu.cn/)
@@ -57,12 +55,14 @@ A Cocos2d-x systems project covering map interaction, character control, collisi
 
 ## Honors
 
-- **National Scholarship** — Ministry of Education.
-- **Qidi Scholarship**
-- **First-Class Outstanding Student Scholarship**, 2024
-- **Social Activity Scholarship**, 2024 and 2025
-- **Tongji University Outstanding Student**, 2024 and 2025
-- **Computer Science Youth Pioneer**
+| | Award | Awarded by | Year |
+| :-: | --- | --- | --- |
+| 🏅 | **National Scholarship** | Ministry of Education of the People's Republic of China | |
+| 🏅 | **Qidi Scholarship** | Tongji University | |
+| 🏅 | **First-Class Outstanding Student Scholarship** | Tongji University | 2024 |
+| 🏅 | **Social Activity Scholarship** | Tongji University | 2024, 2025 |
+| ⭐ | **Outstanding Student** | Tongji University | 2024, 2025 |
+| ⭐ | **Computer Science Youth Pioneer** | School of Computer Science and Technology, Tongji University | |
 
 ## Now
 
