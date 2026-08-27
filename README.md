@@ -4,6 +4,8 @@
 
 **AI Explorer · Software Engineering Undergraduate at Tongji University**
 
+GPA 4.79/5.00 · ranked 6/191 (top 3%)
+
 I study how AI systems listen, look, reason, and revise — and I build tools that make those decisions easier to inspect.
 
 [Website](https://jackey0903.github.io/) · [Email](mailto:3038115521@qq.com) · [Tongji University](https://www.tongji.edu.cn/)
@@ -31,13 +33,13 @@ Turns scientific papers into editable PowerPoint posters through capacity-aware 
 
 *Under review* · [Code](https://github.com/Jackey0903/SKA-VCT)
 
-Audio-visual segmentation leans on static visual saliency, so a silent guitar on a poster can outvote the one actually being played. **KEVA** makes audio interrogate the motion field before it is allowed to drive segmentation. On AVSBench it reaches 87.42 / 73.50 / 51.98 mIoU on S4 / MS3 / AVSS, and under deceptive visual saliency its degradation is 3.27 points versus 10.90 for the vision-centric baseline.
+Audio-visual segmentation leans on static visual saliency, so a silent guitar on a poster can outvote the one actually being played. **KEVA** makes audio interrogate the motion field before it is allowed to drive segmentation — spectral–kinematic alignment filters the flow, verified motion initializes the object queries, and a zero-initialized gate keeps the appearance prior when a source barely moves.
 
 ### [To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation](https://github.com/Jackey0903/To-Think-or-Not-to-Think)
 
 *Under review* · [Code](https://github.com/Jackey0903/To-Think-or-Not-to-Think)
 
-Longer chain-of-thought is not uniformly better — forcing it on simple queries is an *overthinking trap*. The hidden state a model holds just before its first reasoning token already predicts, at 70.1% accuracy, whether reasoning will help. Routing on that signal retains ~96% of always-long quality while cutting reasoning tokens by 60%, and transfers zero-shot to out-of-distribution splits.
+Longer chain-of-thought is not uniformly better — forcing it on an already-clear query is an *overthinking trap*. The hidden state a model holds just before its first reasoning token turns out to encode whether reasoning will help, so a lightweight controller can pick a Zero / Short / Long budget before any reasoning is generated, without an extra forward pass.
 
 ## Projects
 
@@ -55,7 +57,12 @@ A Cocos2d-x systems project covering map interaction, character control, collisi
 
 ## Honors
 
-- **Third Place**, AWS Summit Shanghai Hackathon 2026 — advanced to the Macau round with DraftCode.
+- **National Scholarship** — Ministry of Education, awarded to the top 1% of undergraduates.
+- **Qidi Scholarship** — top 1% of the cohort.
+- **First-Class Outstanding Student Scholarship**, 2024 — top 5% of the cohort.
+- **Social Activity Scholarship**, 2025.
+- **Tongji University Outstanding Student**, 2024 and 2025.
+- **Computer Science Youth Pioneer** — one of ten students selected university-wide.
 
 ## Now
 
