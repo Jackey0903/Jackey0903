@@ -49,7 +49,7 @@ An auditable NBA draft prediction agent that fuses talent, expert mocks, and mar
 
 ### [VoxSprite](https://github.com/Jackey0903/VoxSprite)
 
-Turns any voice into a playable instrument with Web Audio, an ESP32-S3, physical keys, and reactive LEDs.
+Turns any voice into a playable instrument with Web Audio, an ESP32-S3, physical keys, and reactive LEDs. Excellence Award at Xiaohongshu AI Builder.
 
 ### [Stardew-Valley](https://github.com/Jackey0903/Stardew-Valley)
 
@@ -57,12 +57,12 @@ A Cocos2d-x systems project covering map interaction, character control, collisi
 
 ## Honors
 
-- **National Scholarship** — Ministry of Education, awarded to the top 1% of undergraduates.
-- **Qidi Scholarship** — top 1% of the cohort.
-- **First-Class Outstanding Student Scholarship**, 2024 — top 5% of the cohort.
-- **Social Activity Scholarship**, 2025.
-- **Tongji University Outstanding Student**, 2024 and 2025.
-- **Computer Science Youth Pioneer** — one of ten students selected university-wide.
+- **National Scholarship** — Ministry of Education.
+- **Qidi Scholarship**
+- **First-Class Outstanding Student Scholarship**, 2024
+- **Social Activity Scholarship**, 2024 and 2025
+- **Tongji University Outstanding Student**, 2024 and 2025
+- **Computer Science Youth Pioneer**
 
 ## Now
 
