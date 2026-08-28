@@ -57,12 +57,12 @@ A Cocos2d-x systems project covering map interaction, character control, collisi
 
 | | Award | Awarded by | Year |
 | :-: | --- | --- | --- |
-| 🏅 | **National Scholarship** | Ministry of Education of the People's Republic of China | |
-| 🏅 | **Qidi Scholarship** | Tongji University | |
+| 🏅 | **National Scholarship** | Ministry of Education of the People's Republic of China | 2025 |
+| 🏅 | **Qidi Scholarship** | Tongji University | 2026 |
 | 🏅 | **First-Class Outstanding Student Scholarship** | Tongji University | 2024 |
 | 🏅 | **Social Activity Scholarship** | Tongji University | 2024, 2025 |
 | ⭐ | **Outstanding Student** | Tongji University | 2024, 2025 |
-| ⭐ | **Computer Science Youth Pioneer** | School of Computer Science and Technology, Tongji University | |
+| ⭐ | **Computer Science Youth Pioneer** | School of Computer Science and Technology, Tongji University | 2026 |
 
 ## Now
 
