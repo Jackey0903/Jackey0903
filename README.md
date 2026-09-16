@@ -12,6 +12,13 @@ I study how AI systems listen, look, reason, and revise — and I build tools th
 
 ---
 
+## Education
+
+| | Programme | Institution | Year |
+| :-: | --- | --- | --- |
+| 🎓 | **Ph.D. Student** | Shanghai Jiao Tong University · jointly trained at Shanghai Innovation Institute | 2027 – Present |
+| 🎓 | **B.Eng., Software Engineering** | Tongji University | 2023 – 2027 |
+
 ## What I am exploring
 
 - **Multimodal perception:** grounding objects and events across audio, vision, motion, and language.
