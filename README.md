@@ -4,7 +4,7 @@
 
 **Incoming Ph.D. Student · Shanghai Jiao Tong University × Shanghai Innovation Institute**
 
-Multimodal large language models · Video understanding · Video generation
+Multimodal large language models · Video understanding & generation · World models
 
 <br>
 
@@ -19,7 +19,7 @@ Multimodal large language models · Video understanding · Video generation
 ## 🧑‍🔬 About Me
 
 - 🎓 B.Eng. in Software Engineering at **Tongji University** (2023 – 2027), and an incoming Ph.D. student at **Shanghai Jiao Tong University**, jointly trained at **Shanghai Innovation Institute**.
-- 🔬 I work on **multimodal large language models** and **video understanding and generation** — how models listen, look, reason, and revise.
+- 🔬 I work on **multimodal large language models**, **video understanding and generation**, and **world models** — how models listen, look, reason, and revise.
 - 🛠️ I like research whose failures are visible, and I build tools that keep intermediate artifacts open to inspection.
 - 📫 Reach me at [3038115521@qq.com](mailto:3038115521@qq.com) or through my [homepage](https://jackey0903.github.io/).
 
