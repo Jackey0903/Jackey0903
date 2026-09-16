@@ -14,10 +14,9 @@ I study how AI systems listen, look, reason, and revise — and I build tools th
 
 ## Education
 
-| | Programme | Institution | Year |
-| :-: | --- | --- | --- |
-| 🎓 | **Ph.D. Student** | Shanghai Jiao Tong University · jointly trained at Shanghai Innovation Institute | 2027 – Present |
-| 🎓 | **B.Eng., Software Engineering** | Tongji University | 2023 – 2027 |
+- 2027.09 - Present: Jointly Trained Ph.D. Student, [Shanghai Innovation Institute](https://www.sii.edu.cn/).
+- 2027.09 - Present: Ph.D. Student, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+- 2023.09 - 2027.06: B.Eng., Software Engineering, [Tongji University](https://www.tongji.edu.cn/).
 
 ## What I am exploring
 
