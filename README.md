@@ -1,65 +1,106 @@
 <div align="center">
 
-# Haojie Hu · 胡浩杰
+# Hi, I'm Haojie Hu (胡浩杰) 👋
 
-**AI Explorer · Software Engineering Undergraduate at Tongji University**
+**Incoming Ph.D. Student · Shanghai Jiao Tong University × Shanghai Innovation Institute**
 
-I study how AI systems listen, look, reason, and revise — and I build tools that make those decisions easier to inspect.
+Multimodal large language models · Video understanding · Video generation
 
-[Website](https://jackey0903.github.io/) · [Email](mailto:3038115521@qq.com) · [Tongji University](https://www.tongji.edu.cn/)
+<br>
+
+[![Website](https://img.shields.io/badge/Website-jackey0903.github.io-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://jackey0903.github.io/)
+[![Email](https://img.shields.io/badge/Email-3038115521%40qq.com-d63b3b?style=flat-square&logo=gmail&logoColor=white)](mailto:3038115521@qq.com)
+[![GitHub](https://img.shields.io/github/followers/Jackey0903?style=flat-square&logo=github&label=Followers&color=0f172a)](https://github.com/Jackey0903)
 
 </div>
 
----
+<br>
 
-## Education
+## 🧑‍🔬 About Me
+
+- 🎓 B.Eng. in Software Engineering at **Tongji University** (2023 – 2027), and an incoming Ph.D. student at **Shanghai Jiao Tong University**, jointly trained at **Shanghai Innovation Institute**.
+- 🔬 I work on **multimodal large language models** and **video understanding and generation** — how models listen, look, reason, and revise.
+- 🛠️ I like research whose failures are visible, and I build tools that keep intermediate artifacts open to inspection.
+- 📫 Reach me at [3038115521@qq.com](mailto:3038115521@qq.com) or through my [homepage](https://jackey0903.github.io/).
+
+## 📝 Papers
+
+<table>
+  <tr>
+    <td width="230" align="center">
+      <a href="https://arxiv.org/abs/2608.02218"><img src="https://jackey0903.github.io/assets/thumbs/postermeld-teaser.jpg" width="220" alt="PosterMELD"></a>
+    </td>
+    <td>
+      <b><a href="https://arxiv.org/abs/2608.02218">PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs</a></b><br>
+      <b>Haojie Hu</b>, Chenhao Dang, Yaojia Liu, Hengrui Kang, Conghui He, Weijia Li<br>
+      <i>arXiv:2608.02218</i><br>
+      <a href="https://arxiv.org/abs/2608.02218">Paper</a> · <a href="https://github.com/Jackey0903/PosterMELD">Code</a> · <a href="https://jackey0903.github.io/PosterMELD/">Project page</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="230" align="center">
+      <a href="https://github.com/Jackey0903/SKA-VCT"><img src="https://raw.githubusercontent.com/Jackey0903/SKA-VCT/main/assets/teaser.jpg" width="220" alt="Listening to the Motion"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Jackey0903/SKA-VCT">Listening to the Motion: Audio-Conditioned Kinematic Verification for Robust Audio-Visual Segmentation</a></b><br>
+      <i>Under review</i><br>
+      <a href="https://github.com/Jackey0903/SKA-VCT">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="230" align="center">
+      <a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think"><img src="https://raw.githubusercontent.com/Jackey0903/To-Think-or-Not-to-Think/main/assets/teaser.png" width="220" alt="To Think or Not to Think"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think">To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation</a></b><br>
+      <i>Under review</i><br>
+      <a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think">Code</a>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="230" align="center">
+      <a href="https://github.com/Jackey0903/draftcode"><img src="https://jackey0903.github.io/assets/thumbs/draftcode-architecture.jpg" width="220" alt="DraftCode"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Jackey0903/draftcode">DraftCode: NBA Draft War Room</a></b><br>
+      An auditable NBA draft prediction agent that fuses talent, expert mocks, and market signals across 30 GM personas and 1,500 Monte Carlo scenarios.<br>
+      <i>AWS Summit Shanghai 2026 Hackathon · Third place, advanced to the Macau round</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="230" align="center">
+      <a href="https://github.com/Jackey0903/VoxSprite"><img src="https://jackey0903.github.io/assets/thumbs/voxsprite-app.jpg" width="220" alt="VoxSprite"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Jackey0903/VoxSprite">VoxSprite</a></b><br>
+      Turns any voice into a playable instrument with Web Audio, an ESP32-S3, physical keys, and reactive LEDs.<br>
+      <i>Xiaohongshu AI Builder · Excellence Award</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="230" align="center">
+      <a href="https://github.com/Jackey0903/Stardew-Valley"><img src="https://jackey0903.github.io/assets/thumbs/stardew-title.jpg" width="220" alt="Stardew-Valley"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Jackey0903/Stardew-Valley">Stardew-Valley</a></b><br>
+      A Cocos2d-x systems project covering map interaction, character control, collision detection, inventory, and farming simulation mechanics.<br>
+      <i>Course project</i>
+    </td>
+  </tr>
+</table>
+
+## 🎓 Education
 
 - 2027.09 - Present: Jointly Trained Ph.D. Student, [Shanghai Innovation Institute](https://www.sii.edu.cn/).
 - 2027.09 - Present: Ph.D. Student, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 - 2023.09 - 2027.06: B.Eng., Software Engineering, [Tongji University](https://www.tongji.edu.cn/).
 
-## What I am exploring
-
-- **Multimodal perception:** grounding objects and events across audio, vision, motion, and language.
-- **Reasoning behavior:** understanding when longer reasoning helps a model and when it only creates drift.
-- **AI for research:** inspectable agent workflows for reading, experimentation, and scientific communication.
-
-## Papers
-
-### [PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs](https://arxiv.org/abs/2608.02218)
-
-**Haojie Hu**, Chenhao Dang, Yaojia Liu, Hengrui Kang, Conghui He, Weijia Li
-*arXiv:2608.02218* · [Paper](https://arxiv.org/abs/2608.02218) · [Code](https://github.com/Jackey0903/PosterMELD) · [Project page](https://jackey0903.github.io/PosterMELD/)
-
-Turns scientific papers into editable PowerPoint posters through capacity-aware slots, explicit design controls, and bounded visual-quality repair. Evaluated on 621 papers with an 81.3% print-ready rate at roughly $0.38 per poster.
-
-### [Listening to the Motion: Audio-Conditioned Kinematic Verification for Robust Audio-Visual Segmentation](https://github.com/Jackey0903/SKA-VCT)
-
-*Under review* · [Code](https://github.com/Jackey0903/SKA-VCT)
-
-Audio-visual segmentation leans on static visual saliency, so a silent guitar on a poster can outvote the one actually being played. **KEVA** makes audio interrogate the motion field before it is allowed to drive segmentation — spectral–kinematic alignment filters the flow, verified motion initializes the object queries, and a zero-initialized gate keeps the appearance prior when a source barely moves.
-
-### [To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation](https://github.com/Jackey0903/To-Think-or-Not-to-Think)
-
-*Under review* · [Code](https://github.com/Jackey0903/To-Think-or-Not-to-Think)
-
-Longer chain-of-thought is not uniformly better — forcing it on an already-clear query is an *overthinking trap*. The hidden state a model holds just before its first reasoning token turns out to encode whether reasoning will help, so a lightweight controller can pick a Zero / Short / Long budget before any reasoning is generated, without an extra forward pass.
-
-## Projects
-
-### [DraftCode: NBA Draft War Room](https://github.com/Jackey0903/draftcode)
-
-An auditable NBA draft prediction agent that fuses talent, expert mocks, and market signals across 30 GM personas and 1,500 Monte Carlo scenarios. Built for the AWS Summit Shanghai 2026 hackathon; placed third and advanced to the Macau round.
-
-### [VoxSprite](https://github.com/Jackey0903/VoxSprite)
-
-Turns any voice into a playable instrument with Web Audio, an ESP32-S3, physical keys, and reactive LEDs. Excellence Award at Xiaohongshu AI Builder.
-
-### [Stardew-Valley](https://github.com/Jackey0903/Stardew-Valley)
-
-A Cocos2d-x systems project covering map interaction, character control, collision detection, inventory, and farming simulation mechanics.
-
-## Honors
+## 🏅 Honors
 
 | | Award | Awarded by | Year |
 | :-: | --- | --- | --- |
@@ -70,10 +111,10 @@ A Cocos2d-x systems project covering map interaction, character control, collisi
 | ⭐ | **Outstanding Student** | Tongji University | 2024, 2025 |
 | ⭐ | **Computer Science Youth Pioneer** | School of Computer Science and Technology, Tongji University | 2026 |
 
-## Now
+## 🛠️ Tech Stack
 
-> Looking for AI research and engineering internships around multimodal learning, LLM reasoning, research agents, and evaluation-heavy systems.
+<div align="center">
 
-Python · PyTorch · C++ · TypeScript · Computer Vision · Multimodal Learning · Multi-Agent Systems · Research Tooling
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,cpp,ts,react,vue,linux,git,aws,latex&perline=10)](https://skillicons.dev)
 
-I also enjoy playful systems, game mechanics, and projects that make difficult ideas visible.
+</div>
