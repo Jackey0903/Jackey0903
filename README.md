@@ -23,7 +23,24 @@ Multimodal large language models · Video understanding & generation · World mo
 - 🛠️ I like research whose failures are visible, and I build tools that keep intermediate artifacts open to inspection.
 - 📫 Reach me at [3038115521@qq.com](mailto:3038115521@qq.com) or through my [homepage](https://jackey0903.github.io/).
 
-## 📝 Papers
+## 📝 Publications
+
+<table>
+  <tr>
+    <td width="230" align="center">
+      <a href="https://neurips.cc/virtual/2026/poster/148558"><img src="https://raw.githubusercontent.com/Jackey0903/To-Think-or-Not-to-Think/main/assets/teaser.png" width="220" alt="To Think or Not to Think"></a>
+    </td>
+    <td>
+      <b><a href="https://neurips.cc/virtual/2026/poster/148558">To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation</a></b><br>
+      <b>Haojie Hu</b>, Senda Chen, Ying Shen, Lin Zhang<br>
+      <i>Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</i><br>
+      arXiv: coming soon<br>
+      <a href="https://neurips.cc/virtual/2026/poster/148558">Conference</a> · <a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think">Code</a>
+    </td>
+  </tr>
+</table>
+
+## 📄 Preprints
 
 <table>
   <tr>
@@ -45,18 +62,6 @@ Multimodal large language models · Video understanding & generation · World mo
       <b><a href="https://github.com/Jackey0903/SKA-VCT">Listening to the Motion: Audio-Conditioned Kinematic Verification for Robust Audio-Visual Segmentation</a></b><br>
       <i>Under review</i><br>
       <a href="https://github.com/Jackey0903/SKA-VCT">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="230" align="center">
-      <a href="https://neurips.cc/virtual/2026/poster/148558"><img src="https://raw.githubusercontent.com/Jackey0903/To-Think-or-Not-to-Think/main/assets/teaser.png" width="220" alt="To Think or Not to Think"></a>
-    </td>
-    <td>
-      <b><a href="https://neurips.cc/virtual/2026/poster/148558">To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation</a></b><br>
-      <b>Haojie Hu</b>, Senda Chen, Ying Shen, Lin Zhang<br>
-      <i>Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</i><br>
-      arXiv: coming soon<br>
-      <a href="https://neurips.cc/virtual/2026/poster/148558">Conference</a> · <a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think">Code</a>
     </td>
   </tr>
 </table>
