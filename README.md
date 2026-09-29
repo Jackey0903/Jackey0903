@@ -54,7 +54,7 @@ Multimodal large language models · Video understanding & generation · World mo
     <td>
       <b><a href="https://neurips.cc/virtual/2026/poster/148558">To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation</a></b><br>
       <b>Haojie Hu</b>, Senda Chen, Ying Shen, Lin Zhang<br>
-      <i>Advances in Neural Information Processing Systems (NeurIPS), 2026</i><br>
+      <i>Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</i><br>
       arXiv: coming soon<br>
       <a href="https://neurips.cc/virtual/2026/poster/148558">Conference</a> · <a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think">Code</a>
     </td>
