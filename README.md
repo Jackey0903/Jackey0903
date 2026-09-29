@@ -49,12 +49,12 @@ Multimodal large language models · Video understanding & generation · World mo
   </tr>
   <tr>
     <td width="230" align="center">
-      <a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think"><img src="https://raw.githubusercontent.com/Jackey0903/To-Think-or-Not-to-Think/main/assets/teaser.png" width="220" alt="To Think or Not to Think"></a>
+      <a href="https://neurips.cc/virtual/2026/poster/148558"><img src="https://raw.githubusercontent.com/Jackey0903/To-Think-or-Not-to-Think/main/assets/teaser.png" width="220" alt="To Think or Not to Think"></a>
     </td>
     <td>
-      <b><a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think">To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation</a></b><br>
-      <i>Under review</i><br>
-      <a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think">Code</a>
+      <b><a href="https://neurips.cc/virtual/2026/poster/148558">To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation</a></b><br>
+      <i>Advances in Neural Information Processing Systems (NeurIPS), 2026</i><br>
+      <a href="https://neurips.cc/virtual/2026/poster/148558">Conference</a> · <a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think">Code</a>
     </td>
   </tr>
 </table>
@@ -96,15 +96,15 @@ Multimodal large language models · Video understanding & generation · World mo
 
 ## 🎓 Education
 
-- 2027.09 - Present: Jointly Trained Ph.D. Student, [Shanghai Innovation Institute](https://www.sii.edu.cn/).
-- 2027.09 - Present: Ph.D. Student, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
-- 2023.09 - 2027.06: B.Eng., Software Engineering, [Tongji University](https://www.tongji.edu.cn/).
+- Expected 2027.09: Incoming Jointly Trained Ph.D. Student, [Shanghai Innovation Institute](https://www.sii.edu.cn/).
+- Expected 2027.09: Incoming Ph.D. Student, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+- 2023.09 - 2027.06 (expected): B.Eng., Software Engineering, [Tongji University](https://www.tongji.edu.cn/).
 
 ## 🏅 Honors
 
 | | Award | Awarded by | Year |
 | :-: | --- | --- | --- |
-| 🏅 | **National Scholarship** | Ministry of Education of the People's Republic of China | 2025 |
+| 🏅 | **National Scholarship** | Ministry of Education of the People's Republic of China | 2025, 2026 |
 | 🏅 | **Qidi Scholarship** | Tongji University | 2026 |
 | 🏅 | **First-Class Outstanding Student Scholarship** | Tongji University | 2024 |
 | 🏅 | **Social Activity Scholarship** | Tongji University | 2024, 2025 |
