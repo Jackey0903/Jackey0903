@@ -53,7 +53,9 @@ Multimodal large language models · Video understanding & generation · World mo
     </td>
     <td>
       <b><a href="https://neurips.cc/virtual/2026/poster/148558">To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation</a></b><br>
+      <b><a href="https://openreview.net/profile?id=~Haojie_Hu1">Haojie Hu</a></b>, <a href="https://openreview.net/profile?id=~Senda_Chen1">Senda Chen</a>, <a href="https://openreview.net/profile?id=~Ying_Shen2">Ying Shen</a>, <a href="https://openreview.net/profile?id=~Lin_Zhang2">Lin Zhang</a><br>
       <i>Advances in Neural Information Processing Systems (NeurIPS), 2026</i><br>
+      arXiv: coming soon<br>
       <a href="https://neurips.cc/virtual/2026/poster/148558">Conference</a> · <a href="https://github.com/Jackey0903/To-Think-or-Not-to-Think">Code</a>
     </td>
   </tr>
@@ -104,11 +106,14 @@ Multimodal large language models · Video understanding & generation · World mo
 
 | | Award | Awarded by | Year |
 | :-: | --- | --- | --- |
-| 🏅 | **National Scholarship** | Ministry of Education of the People's Republic of China | 2025, 2026 |
+| 🏅 | **National Scholarship** | Ministry of Education of the People's Republic of China | 2026 |
+| 🏅 | **National Scholarship** | Ministry of Education of the People's Republic of China | 2025 |
 | 🏅 | **Qidi Scholarship** | Tongji University | 2026 |
 | 🏅 | **First-Class Outstanding Student Scholarship** | Tongji University | 2024 |
-| 🏅 | **Social Activity Scholarship** | Tongji University | 2024, 2025 |
-| ⭐ | **Outstanding Student** | Tongji University | 2024, 2025 |
+| 🏅 | **Social Activity Scholarship** | Tongji University | 2025 |
+| 🏅 | **Social Activity Scholarship** | Tongji University | 2024 |
+| ⭐ | **Outstanding Student** | Tongji University | 2025 |
+| ⭐ | **Outstanding Student** | Tongji University | 2024 |
 | ⭐ | **Computer Science Youth Pioneer** | School of Computer Science and Technology, Tongji University | 2026 |
 
 ## 🛠️ Tech Stack
